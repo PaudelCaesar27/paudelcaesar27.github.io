@@ -16,11 +16,13 @@ body{
 ul{
     display: block;
 }
-.img {
-    height: 318px;
-    width:"300";
-}
+
 .letter li::first-letter{
     color: red;
    font-size: xx-large;
+}
+a.btn-white {
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
 }
