@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(188, 222, 224);
+}
+.heading{
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.name{
+    font-style: italic;
+    font-weight: bold;
+}
+.games{
+    font-family: cursive;
+    color: red;
+}
+ul{
+    display: block;
+}
+img {
+    height: 318px;
+    width:"300";
+}
+.letter li::first-letter{
+    color: red;
+   font-size: xx-large;
+}
