@@ -16,7 +16,7 @@ body{
 ul{
     display: block;
 }
-img {
+.img {
     height: 318px;
     width:"300";
 }
