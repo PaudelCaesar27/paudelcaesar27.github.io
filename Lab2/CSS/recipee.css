@@ -1,0 +1,40 @@
+h1{
+    color:  #A4A400 ;
+    background-color: #F0F0F0 ;
+    font-family: "Lucida Sans", Helvetica, Arial;
+    text-decoration: underline;
+}
+.heading{
+    text-align: center;
+    font-size: 22pt;
+}
+.pie{
+    list-style-type: none;
+    padding: 0px;
+}
+body {
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, Serif;
+    background-image: url(/Lab2/img/silverware.jpg);
+}
+.link{
+    color: #A4A400;
+}
+span.deprecated {
+    text-decoration: line-through;
+}
+.directions{
+    font-weight: bold;
+}
+blockquote {
+    background-color: #FFFFA8;
+    font-style: italic;
+}
+ul.ingredients {
+    list-style-image: url("../img/pie_bullet.png");
+}
+ul.direction {
+    list-style-image: url('../img/pie_bullet.png');
+}
+
